@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Provolver_SuperHot", "Provolver_SuperHot.csproj", "{F189356D-4E48-4404-81D3-A597B0946ABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F189356D-4E48-4404-81D3-A597B0946ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F189356D-4E48-4404-81D3-A597B0946ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F189356D-4E48-4404-81D3-A597B0946ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F189356D-4E48-4404-81D3-A597B0946ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B94F7426-62C7-4633-91E9-037393DFB0DA}
+	EndGlobalSection
+EndGlobal
