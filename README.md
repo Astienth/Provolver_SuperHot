@@ -12,7 +12,7 @@ This mod adds provolver support to the game
 	- for Steam: C:\Program Files (x86)\Steam\steamapps\common\SUPERHOT VR\
 	- for Oculus Rift: C:\Program Files\Oculus\Software\Software\SUPERHOT VR\
 
-3. Select melonloader 0.5.4
+3. Select melonloader 0.5.4 and click on Install
 
 4. **Download** [Mod zip file](https://github.com/Astienth/Provolver_SuperHot/releases/download/1.0/Provolver_SuperHot.zip) and **extract** into \SUPERHOT VR\Mods\
 
