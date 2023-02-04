@@ -22,3 +22,11 @@ This mod adds provolver support to the game
 
 There is a file located in the provolver folder in the mod files called Provolver_config.cfg
 You can turn the leftHanded mode by replacing "false" to "true" in front of "leftHanded = ".
+
+# Troubleshoot
+
+If it doesn't work ingame and your device vibrated and is connected after launching the game :
+
+Maybe you have or had more than two protube devices and the one you use are not working.
+In any case unpair any protube device you don't want to use from your pc in the settings in windows.
+Delete the configuration files leftHand.pro and rightHand.pro if any in the folder /Mods/dualwield/
